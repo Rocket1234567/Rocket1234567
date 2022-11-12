@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rocket1234567
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python
+- 📮 Please contact @Rocket1234567 if you have any games you want me to try out
